@@ -43,6 +43,7 @@ struct AnswersAiApp: App {
                         Text("Search")
                     }
             }
+                 .preferredColorScheme(.dark)
         }
     }
 }
